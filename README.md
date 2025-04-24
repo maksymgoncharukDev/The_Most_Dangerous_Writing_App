@@ -29,4 +29,6 @@ Large buttons for smooth interaction.
 
 Screenshots
 <img width="1470" alt="Знімок екрана 2025-04-24 о 10 19 49" src="https://github.com/user-attachments/assets/3cc5463c-1c7b-41be-9e0c-deeddbb61593" />
+<img width="1470" alt="Знімок екрана 2025-04-24 о 10 22 39" src="https://github.com/user-attachments/assets/5ea34133-5295-4f95-b8bf-c0964e3fb9f9" />
+
 
